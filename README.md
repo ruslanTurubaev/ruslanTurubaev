@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ruslan
+- 👀 I’m interested in Android Developing
+- 🌱 I know java core and currently I'm learning Kotlin
+- Looking forward to work on some cool mobile application
+- 📫 You can reach me via e-mail : turubaevruslan@gmail.com
